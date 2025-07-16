@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "neks.aternos.host:48770", 
+    "ip": "gibbon.aternos.host:48770", 
     "port": 48770,   
     "version": "1.12.1"   
   },
